@@ -1,1 +1,1 @@
-SunnySMP Admin Selectio
+SunnySMP Admin Selection
